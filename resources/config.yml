@@ -8,7 +8,7 @@ RPGworld: ""
 AllowBlockPlacing: false
 
 #Decide if block breaking in RPG world is allowed (OPs will always be able to):
-AllowBlockBreaking: false
+AllowBlockBreaking: true
 
 #Message sent to players when a player reaches level 10:
 LevelUpMessage: ""
