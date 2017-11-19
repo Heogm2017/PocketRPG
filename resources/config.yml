@@ -1,18 +1,18 @@
 ---
 #Configuration for PocketRPG plugin
 
-#Level you want the RPG to work in:
+#Level you want the RPG to work in: (Chọn world bạn muốn làm spawn cho RPG)
 RPGworld: ""
 
-#Decide if block placing in RPG world is allowed (OPs will always be able to):
+#Decide if block placing in RPG world is allowed (OPs will always be able to): (Cho phép đặt block)
 AllowBlockPlacing: false
 
-#Decide if block breaking in RPG world is allowed (OPs will always be able to):
+#Decide if block breaking in RPG world is allowed (OPs will always be able to): (Cho phép phá block)
 AllowBlockBreaking: false
 
-#Message sent to players when a player reaches level 10:
+#Message sent to players when a player reaches level 10: (Tin nhắn khi lên level 10)
 LevelUpMessage: ""
 
-#Switch for not being able to lose items in RPG world (crafting, furnace smelting, dropping etc...):
+#Switch for not being able to lose items in RPG world (crafting, furnace smelting, dropping etc...): (Cho phép quăng đồ)
 DisableItemLosing: true
 ...
